@@ -1,0 +1,11 @@
+{
+    "serverMaxRevisionCounter": 1,
+    "sourceMembers": {
+        "Profile__Admin": {
+            "serverRevisionCounter": 1,
+            "lastRetrievedFromServer": 1,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        }
+    }
+}
